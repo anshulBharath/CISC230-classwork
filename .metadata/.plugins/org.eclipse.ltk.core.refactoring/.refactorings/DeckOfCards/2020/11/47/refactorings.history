@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CardMod&apos; to &apos;CardOld&apos;&#x0A;- Original project: &apos;DeckOfCards&apos;&#x0A;- Original element: &apos;CardMod&apos;&#x0A;- Renamed element: &apos;CardOld&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CardMod&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{CardMod.java[CardMod" matchStrategy="1" name="CardOld" qualified="false" references="true" similarDeclarations="true" stamp="1605808742695" textual="false" version="1.0"/>
+</session>

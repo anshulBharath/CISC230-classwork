@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;author&apos; in &apos;SICProcessing.displayByTitle()&apos; to &apos;title&apos;&#x0A;- Original project: &apos;Assignment2&apos;&#x0A;- Original element: &apos;SICProcessing.displayByTitle().author&apos;&#x0A;- Renamed element: &apos;author&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;author&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{SICProcessing.java[SICProcessing~displayByTitle@author!6153!6166!6160!6165!QString;!0!false" name="title" references="true" stamp="1601779460176" version="1.0"/>
+</session>

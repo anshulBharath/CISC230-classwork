@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;moveSuccessfull&apos; in &apos;Jarvis.move()&apos; to &apos;moveSuccessful&apos;&#x0A;- Original project: &apos;Assignment6&apos;&#x0A;- Original element: &apos;Jarvis.move().moveSuccessfull&apos;&#x0A;- Renamed element: &apos;moveSuccessfull&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;moveSuccessfull&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Jarvis.java[Jarvis~move@moveSuccessfull!2114!2145!2122!2136!Z!0!false" name="moveSuccessful" references="true" stamp="1608062234170" version="1.0"/>
+</session>
